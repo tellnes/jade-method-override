@@ -1,6 +1,6 @@
 {
   "name": "jade-method-override",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Fixes special http methods in jade forms",
   "main": "index.js",
   "scripts": {
