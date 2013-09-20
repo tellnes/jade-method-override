@@ -10,6 +10,6 @@
   "author": "Christian Tellnes <christian@tellnes.no> (http://christian.tellnes.com)",
   "license": "MIT",
   "peerDependencies": {
-    "jade": "~0.28.2"
+    "jade": "~0"
   }
 }
